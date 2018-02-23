@@ -2,6 +2,8 @@
 coverage
 node_modules
 stats.json
+build
+web.config
 
 # Cruft
 .DS_Store
